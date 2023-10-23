@@ -7,6 +7,36 @@
   pointer-events: none;
 }
 
+.title {
+  font-size: 40px;
+  font-family: Pretendard;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 40px;
+}
+
+.scripttitle {
+  font-size: 32px;
+  font-family: Pretendard;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 40px;
+}
+
+.script {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 45px;
+}
+
+.divider {
+  display: flex;
+  width: 100%;
+  border: 1px solid #000000;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
