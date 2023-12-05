@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h2 className="title">Karabiner 개인정보 처리방침</h2>
+      <h2 className="title">SRT 개인정보 처리방침</h2>
       <hr className="divider" />
       <div>
       <h1 className="scripttitle"> 1. 수집항목 </h1>
